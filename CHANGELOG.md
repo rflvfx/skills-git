@@ -480,3 +480,4 @@
 - 2025-04-08: Polish docs
 - 2025-09-05: Small fix
 - 2026-10-23: Refine text
+- 2026-12-17: Adjust content
