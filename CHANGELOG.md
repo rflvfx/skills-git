@@ -507,3 +507,4 @@
 - 2026-11-07: Clarify section
 - 2026-01-01: Update guide
 - 2026-02-19: Review content
+- 2026-12-16: Improve docs
