@@ -492,3 +492,4 @@
 - 2026-01-07: Add remark
 - 2026-08-10: Add note
 - 2026-02-22: Add detail
+- 2026-12-09: Adjust content
