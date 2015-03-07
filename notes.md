@@ -12,3 +12,4 @@
 - 2015-08-18: Improve docs
 - 2015-05-24: Improve docs
 - 2015-10-27: Adjust content
+- 2015-03-07: Improve docs
