@@ -63,3 +63,4 @@
 - 2015-04-22: Update notes
 - 2015-03-25: Small fix
 - 2015-09-03: Add detail
+- 2015-04-24: Update guide
