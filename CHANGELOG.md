@@ -53,3 +53,4 @@
 - 2015-03-28: Update notes
 - 2015-11-03: Add note
 - 2015-04-13: Small fix
+- 2015-04-27: Refine text
