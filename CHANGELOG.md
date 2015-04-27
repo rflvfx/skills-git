@@ -47,3 +47,4 @@
 - 2015-04-18: Small fix
 - 2015-05-04: Expand section
 - 2015-10-11: Update guide
+- 2015-04-27: Add note
