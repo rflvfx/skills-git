@@ -54,3 +54,4 @@
 - 2015-11-03: Add note
 - 2015-04-13: Small fix
 - 2015-04-27: Refine text
+- 2015-05-19: Polish docs
