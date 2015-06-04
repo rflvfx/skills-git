@@ -69,3 +69,4 @@
 - 2015-03-15: Update notes
 - 2015-11-22: Add remark
 - 2015-02-27: Expand section
+- 2015-06-04: Fix example
