@@ -43,3 +43,4 @@
 - 2015-11-03: Typo fix
 - 2015-04-16: Typo fix
 - 2015-06-05: Expand section
+- 2015-06-19: Improve docs
