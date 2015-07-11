@@ -4,3 +4,4 @@
 - 2015-02-19: Update guide
 - 2015-02-23: Typo fix
 - 2015-08-05: Fix example
+- 2015-07-11: Fix example
