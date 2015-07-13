@@ -35,3 +35,4 @@
 - 2015-02-26: Small fix
 - 2015-11-14: Minor update
 - 2015-11-16: Typo fix
+- 2015-07-13: Update guide
