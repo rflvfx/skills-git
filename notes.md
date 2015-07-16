@@ -6,3 +6,4 @@
 - 2015-08-05: Fix example
 - 2015-07-11: Fix example
 - 2015-05-27: Update notes
+- 2015-07-16: Improve docs
