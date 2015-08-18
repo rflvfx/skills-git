@@ -9,3 +9,4 @@
 - 2015-07-16: Improve docs
 - 2015-11-20: Typo fix
 - 2015-11-13: Add note
+- 2015-08-18: Improve docs
