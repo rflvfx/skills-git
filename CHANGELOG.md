@@ -40,3 +40,4 @@
 - 2015-11-22: Update notes
 - 2015-12-26: Improve docs
 - 2015-08-03: Minor update
+- 2015-11-03: Typo fix
