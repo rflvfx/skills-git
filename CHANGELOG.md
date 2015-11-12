@@ -71,3 +71,4 @@
 - 2015-02-27: Expand section
 - 2015-06-04: Fix example
 - 2015-07-07: Refine text
+- 2015-11-12: Add note
