@@ -8,3 +8,4 @@
 - 2015-05-27: Update notes
 - 2015-07-16: Improve docs
 - 2015-11-20: Typo fix
+- 2015-11-13: Add note
