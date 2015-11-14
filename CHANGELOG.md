@@ -33,3 +33,4 @@
 - 2024-10-15: Update documentation
 - 2024-02-05: Update documentation
 - 2015-02-26: Small fix
+- 2015-11-14: Minor update
