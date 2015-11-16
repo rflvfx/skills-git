@@ -34,3 +34,4 @@
 - 2024-02-05: Update documentation
 - 2015-02-26: Small fix
 - 2015-11-14: Minor update
+- 2015-11-16: Typo fix
