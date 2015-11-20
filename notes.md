@@ -7,3 +7,4 @@
 - 2015-07-11: Fix example
 - 2015-05-27: Update notes
 - 2015-07-16: Improve docs
+- 2015-11-20: Typo fix
