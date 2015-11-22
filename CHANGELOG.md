@@ -37,3 +37,4 @@
 - 2015-11-16: Typo fix
 - 2015-07-13: Update guide
 - 2015-05-19: Adjust content
+- 2015-11-22: Update notes
