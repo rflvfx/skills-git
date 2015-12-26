@@ -38,3 +38,4 @@
 - 2015-07-13: Update guide
 - 2015-05-19: Adjust content
 - 2015-11-22: Update notes
+- 2015-12-26: Improve docs
