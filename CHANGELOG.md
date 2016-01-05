@@ -112,3 +112,4 @@
 - 2016-10-05: Add detail
 - 2016-02-14: Fix example
 - 2016-11-23: Minor update
+- 2016-01-05: Expand section
