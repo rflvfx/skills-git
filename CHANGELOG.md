@@ -113,3 +113,4 @@
 - 2016-02-14: Fix example
 - 2016-11-23: Minor update
 - 2016-01-05: Expand section
+- 2016-01-13: Update guide
