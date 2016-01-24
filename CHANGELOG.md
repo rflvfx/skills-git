@@ -90,3 +90,4 @@
 - 2016-10-10: Add note
 - 2016-04-04: Add detail
 - 2016-12-09: Clarify section
+- 2016-01-24: Clarify section
