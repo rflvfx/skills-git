@@ -110,3 +110,4 @@
 - 2016-12-25: Polish docs
 - 2016-12-12: Add remark
 - 2016-10-05: Add detail
+- 2016-02-14: Fix example
