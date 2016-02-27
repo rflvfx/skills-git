@@ -23,3 +23,4 @@
 - 2016-08-05: Improve docs
 - 2016-11-28: Update notes
 - 2016-12-18: Review content
+- 2016-02-27: Clarify section
