@@ -95,3 +95,4 @@
 - 2016-07-23: Refine text
 - 2016-02-16: Clarify section
 - 2016-09-05: Expand section
+- 2016-04-07: Small fix
