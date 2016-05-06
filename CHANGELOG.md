@@ -76,3 +76,4 @@
 - 2016-03-27: Add remark
 - 2016-04-09: Update guide
 - 2016-06-12: Refine text
+- 2016-05-06: Update guide
