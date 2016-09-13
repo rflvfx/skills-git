@@ -100,3 +100,4 @@
 - 2016-10-23: Add detail
 - 2016-09-08: Update guide
 - 2016-03-26: Fix example
+- 2016-09-13: Adjust content
