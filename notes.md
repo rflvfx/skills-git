@@ -19,3 +19,4 @@
 - 2016-06-08: Fix example
 - 2016-02-01: Polish docs
 - 2016-08-17: Adjust content
+- 2016-10-08: Add remark
