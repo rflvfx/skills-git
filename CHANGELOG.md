@@ -87,3 +87,4 @@
 - 2016-10-05: Update notes
 - 2016-10-12: Clarify section
 - 2016-08-10: Expand section
+- 2016-10-10: Add note
