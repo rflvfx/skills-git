@@ -102,3 +102,4 @@
 - 2016-03-26: Fix example
 - 2016-09-13: Adjust content
 - 2016-07-20: Add detail
+- 2016-10-11: Typo fix
