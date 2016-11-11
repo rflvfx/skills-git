@@ -96,3 +96,4 @@
 - 2016-02-16: Clarify section
 - 2016-09-05: Expand section
 - 2016-04-07: Small fix
+- 2016-11-11: Add detail
