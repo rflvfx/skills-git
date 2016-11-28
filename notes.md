@@ -21,3 +21,4 @@
 - 2016-08-17: Adjust content
 - 2016-10-08: Add remark
 - 2016-08-05: Improve docs
+- 2016-11-28: Update notes
