@@ -108,3 +108,4 @@
 - 2016-12-10: Adjust content
 - 2016-09-28: Typo fix
 - 2016-12-25: Polish docs
+- 2016-12-12: Add remark
