@@ -145,3 +145,4 @@
 - 2017-09-11: Add remark
 - 2017-09-09: Small fix
 - 2017-11-27: Minor update
+- 2017-01-11: Update notes
