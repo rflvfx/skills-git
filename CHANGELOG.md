@@ -137,3 +137,4 @@
 - 2017-07-08: Add note
 - 2017-09-07: Fix example
 - 2017-04-24: Review content
+- 2017-01-21: Update notes
