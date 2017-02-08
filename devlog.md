@@ -1,1 +1,2 @@
 - 2015-11-12 — Update content
+- 2017-02-08 — Refine exercises
