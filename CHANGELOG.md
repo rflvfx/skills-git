@@ -150,3 +150,4 @@
 - 2017-09-27: Minor update
 - 2017-03-17: Refine text
 - 2017-08-19: Fix example
+- 2017-03-01: Refine text
