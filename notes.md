@@ -33,3 +33,4 @@
 - 2017-12-26: Update guide
 - 2017-10-09: Add remark
 - 2017-03-24: Minor update
+- 2017-03-06: Improve docs
