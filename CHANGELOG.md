@@ -148,3 +148,4 @@
 - 2017-01-11: Update notes
 - 2017-02-05: Minor update
 - 2017-09-27: Minor update
+- 2017-03-17: Refine text
