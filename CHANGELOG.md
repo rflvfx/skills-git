@@ -122,3 +122,4 @@
 - 2017-03-21: Adjust content
 - 2017-04-25: Clarify section
 - 2017-09-16: Adjust content
+- 2017-03-27: Polish docs
