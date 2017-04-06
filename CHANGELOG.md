@@ -154,3 +154,4 @@
 - 2017-12-16: Clarify section
 - 2017-10-14: Improve docs
 - 2017-09-01: Expand section
+- 2017-04-06: Adjust content
