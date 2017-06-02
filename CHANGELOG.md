@@ -141,3 +141,4 @@
 - 2017-10-21: Update guide
 - 2017-06-07: Improve docs
 - 2017-02-23: Add remark
+- 2017-06-02: Fix example
