@@ -139,3 +139,4 @@
 - 2017-04-24: Review content
 - 2017-01-21: Update notes
 - 2017-10-21: Update guide
+- 2017-06-07: Improve docs
