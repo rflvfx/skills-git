@@ -123,3 +123,4 @@
 - 2017-04-25: Clarify section
 - 2017-09-16: Adjust content
 - 2017-03-27: Polish docs
+- 2017-08-05: Update guide
