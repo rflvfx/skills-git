@@ -27,3 +27,4 @@
 - 2016-12-19: Typo fix
 - 2016-09-09: Fix example
 - 2017-12-24: Adjust content
+- 2017-08-11: Typo fix
