@@ -124,3 +124,4 @@
 - 2017-09-16: Adjust content
 - 2017-03-27: Polish docs
 - 2017-08-05: Update guide
+- 2017-08-16: Fix example
