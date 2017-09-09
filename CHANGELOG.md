@@ -143,3 +143,4 @@
 - 2017-02-23: Add remark
 - 2017-06-02: Fix example
 - 2017-09-11: Add remark
+- 2017-09-09: Small fix
