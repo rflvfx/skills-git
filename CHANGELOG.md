@@ -152,3 +152,4 @@
 - 2017-08-19: Fix example
 - 2017-03-01: Refine text
 - 2017-12-16: Clarify section
+- 2017-10-14: Improve docs
