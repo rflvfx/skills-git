@@ -2,3 +2,4 @@
 
 - 2015-08-12: Improve worktree usage coverage
 - 2017-06-25: Add sparse checkout examples
+- 2017-10-14: Add lfs tracking examples
