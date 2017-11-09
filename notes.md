@@ -34,3 +34,4 @@
 - 2017-10-09: Add remark
 - 2017-03-24: Minor update
 - 2017-03-06: Improve docs
+- 2017-11-09: Expand section
