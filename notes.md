@@ -36,3 +36,4 @@
 - 2017-03-06: Improve docs
 - 2017-11-09: Expand section
 - 2017-06-22: Add note
+- 2017-11-10: Review content
