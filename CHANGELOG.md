@@ -126,3 +126,4 @@
 - 2017-08-05: Update guide
 - 2017-08-16: Fix example
 - 2017-04-16: Typo fix
+- 2017-12-05: Adjust content
