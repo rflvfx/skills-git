@@ -30,3 +30,4 @@
 - 2017-08-11: Typo fix
 - 2017-05-28: Add detail
 - 2017-05-14: Clarify section
+- 2017-12-26: Update guide
