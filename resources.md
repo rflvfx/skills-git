@@ -1,1 +1,2 @@
 - 2015-07-18: Update study notes (skills-git)
+- 2017-12-28: Add quick reference (skills-git)
