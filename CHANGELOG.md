@@ -189,3 +189,4 @@
 - 2018-08-22: Update guide
 - 2018-11-25: Review content
 - 2018-09-09: Typo fix
+- 2018-01-01: Update guide
