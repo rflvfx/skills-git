@@ -163,3 +163,4 @@
 - 2018-05-12: Add note
 - 2018-09-15: Expand section
 - 2018-07-07: Polish docs
+- 2018-01-07: Review content
