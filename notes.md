@@ -48,3 +48,4 @@
 - 2018-08-14: Small fix
 - 2018-09-10: Update guide
 - 2018-12-04: Update guide
+- 2018-01-07: Small fix
