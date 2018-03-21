@@ -5,3 +5,4 @@
 - 2017-10-14: Add lfs tracking examples
 - 2017-10-21: Add tag management examples
 - 2017-12-12: Add branch cleanup notes
+- 2018-03-21: Add stash workflows notes
