@@ -184,3 +184,4 @@
 - 2018-06-21: Add remark
 - 2018-08-03: Update notes
 - 2018-04-24: Update guide
+- 2018-03-25: Fix example
