@@ -43,3 +43,4 @@
 - 2018-06-08: Typo fix
 - 2018-09-09: Review content
 - 2018-09-24: Adjust content
+- 2018-04-10: Refine text
