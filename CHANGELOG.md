@@ -183,3 +183,4 @@
 - 2018-11-22: Add note
 - 2018-06-21: Add remark
 - 2018-08-03: Update notes
+- 2018-04-24: Update guide
