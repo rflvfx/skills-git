@@ -38,3 +38,4 @@
 - 2017-06-22: Add note
 - 2017-11-10: Review content
 - 2017-02-09: Review content
+- 2018-05-08: Minor update
