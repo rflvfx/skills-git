@@ -181,3 +181,4 @@
 - 2018-03-08: Fix example
 - 2018-05-15: Refine text
 - 2018-11-22: Add note
+- 2018-06-21: Add remark
