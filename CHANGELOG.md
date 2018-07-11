@@ -156,3 +156,4 @@
 - 2017-09-01: Expand section
 - 2017-04-06: Adjust content
 - 2018-12-01: Adjust content
+- 2018-07-11: Improve docs
