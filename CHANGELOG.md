@@ -175,3 +175,4 @@
 - 2018-11-23: Review content
 - 2018-09-17: Typo fix
 - 2018-08-25: Add detail
+- 2018-07-18: Clarify section
