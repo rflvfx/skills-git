@@ -45,3 +45,4 @@
 - 2018-09-24: Adjust content
 - 2018-04-10: Refine text
 - 2018-07-24: Adjust content
+- 2018-08-14: Small fix
