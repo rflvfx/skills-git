@@ -157,3 +157,4 @@
 - 2017-04-06: Adjust content
 - 2018-12-01: Adjust content
 - 2018-07-11: Improve docs
+- 2018-09-15: Add detail
