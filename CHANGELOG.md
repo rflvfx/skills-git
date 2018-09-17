@@ -173,3 +173,4 @@
 - 2018-03-23: Improve docs
 - 2018-11-06: Fix example
 - 2018-11-23: Review content
+- 2018-09-17: Typo fix
