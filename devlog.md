@@ -5,3 +5,4 @@
 - 2023-02-27 — Add practice notes
 - 2024-12-10 — Fix examples
 - 2017-10-27 - Expand section
+- 2018-09-22 - Update study notes
