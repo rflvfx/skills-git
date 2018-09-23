@@ -1,0 +1,5 @@
+#!/bin/bash
+# Block commits with debug leftovers
+if git diff --cached | grep -nE "console\.log|debugger|TODO-XXX"; then
+  echo "pre-commit: remove debug statements"; exit 1
+fi
