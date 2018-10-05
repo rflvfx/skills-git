@@ -169,3 +169,4 @@
 - 2018-11-13: Add detail
 - 2018-03-14: Refine text
 - 2018-04-10: Fix example
+- 2018-10-05: Polish docs
