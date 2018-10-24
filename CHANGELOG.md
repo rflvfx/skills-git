@@ -165,3 +165,4 @@
 - 2018-07-07: Polish docs
 - 2018-01-07: Review content
 - 2018-01-05: Improve docs
+- 2018-10-24: Update notes
