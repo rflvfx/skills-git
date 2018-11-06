@@ -171,3 +171,4 @@
 - 2018-04-10: Fix example
 - 2018-10-05: Polish docs
 - 2018-03-23: Improve docs
+- 2018-11-06: Fix example
