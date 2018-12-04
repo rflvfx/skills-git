@@ -47,3 +47,4 @@
 - 2018-07-24: Adjust content
 - 2018-08-14: Small fix
 - 2018-09-10: Update guide
+- 2018-12-04: Update guide
