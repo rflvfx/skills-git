@@ -68,3 +68,4 @@
 - 2019-09-15: Typo fix
 - 2019-01-09: Expand section
 - 2019-12-21: Clarify section
+- 2019-04-07: Refine text
