@@ -56,3 +56,4 @@
 - 2019-07-13: Update notes
 - 2019-04-13: Add note
 - 2019-04-24: Update guide
+- 2019-04-13: Clarify section
