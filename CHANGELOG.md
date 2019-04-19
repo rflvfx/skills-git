@@ -227,3 +227,4 @@
 - 2019-07-10: Expand section
 - 2019-09-21: Expand section
 - 2019-10-07: Add detail
+- 2019-04-19: Add note
