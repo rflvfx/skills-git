@@ -204,3 +204,4 @@
 - 2019-09-02: Update notes
 - 2019-12-04: Refine text
 - 2019-03-28: Improve docs
+- 2019-05-18: Update notes
