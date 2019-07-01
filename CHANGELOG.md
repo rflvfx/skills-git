@@ -230,3 +230,4 @@
 - 2019-04-19: Add note
 - 2019-04-11: Refine text
 - 2019-12-05: Update guide
+- 2019-07-01: Polish docs
