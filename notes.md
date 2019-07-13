@@ -53,3 +53,4 @@
 - 2018-05-27: Add detail
 - 2018-12-07: Add detail
 - 2018-01-19: Minor update
+- 2019-07-13: Update notes
