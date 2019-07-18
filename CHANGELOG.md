@@ -196,3 +196,4 @@
 - 2018-10-01: Polish docs
 - 2019-10-26: Polish docs
 - 2019-07-27: Expand section
+- 2019-07-18: Add detail
