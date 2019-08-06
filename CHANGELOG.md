@@ -211,3 +211,4 @@
 - 2019-11-28: Expand section
 - 2019-12-17: Adjust content
 - 2019-08-11: Add detail
+- 2019-08-06: Typo fix
