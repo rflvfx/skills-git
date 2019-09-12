@@ -8,3 +8,4 @@
 - 2018-03-21: Add stash workflows notes
 - 2018-09-07: Refine cherry workflows guide
 - 2019-06-03: Refine reflog recovery guide
+- 2019-09-12: Review worktree usage section
