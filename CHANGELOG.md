@@ -217,3 +217,4 @@
 - 2019-08-17: Fix example
 - 2019-09-20: Improve docs
 - 2019-08-01: Review content
+- 2019-09-19: Add detail
