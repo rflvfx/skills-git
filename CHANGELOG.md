@@ -215,3 +215,4 @@
 - 2019-07-27: Expand section
 - 2019-01-12: Minor update
 - 2019-08-17: Fix example
+- 2019-09-20: Improve docs
