@@ -226,3 +226,4 @@
 - 2019-11-20: Improve docs
 - 2019-07-10: Expand section
 - 2019-09-21: Expand section
+- 2019-10-07: Add detail
