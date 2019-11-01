@@ -200,3 +200,4 @@
 - 2019-04-25: Clarify section
 - 2019-03-07: Fix example
 - 2019-04-21: Add detail
+- 2019-11-01: Clarify section
