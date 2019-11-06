@@ -64,3 +64,4 @@
 - 2019-12-14: Minor update
 - 2019-03-21: Improve docs
 - 2019-05-26: Typo fix
+- 2019-11-06: Minor update
