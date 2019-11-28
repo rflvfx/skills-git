@@ -208,3 +208,4 @@
 - 2019-05-12: Add remark
 - 2019-01-03: Update notes
 - 2019-12-25: Update guide
+- 2019-11-28: Expand section
