@@ -202,3 +202,4 @@
 - 2019-04-21: Add detail
 - 2019-11-01: Clarify section
 - 2019-09-02: Update notes
+- 2019-12-04: Refine text
