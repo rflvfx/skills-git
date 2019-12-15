@@ -10,3 +10,4 @@
 - 2019-06-03: Refine reflog recovery guide
 - 2019-09-12: Review worktree usage section
 - 2019-11-11: Add partial staging examples
+- 2019-12-15: Review commit signing section
