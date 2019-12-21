@@ -67,3 +67,4 @@
 - 2019-11-06: Minor update
 - 2019-09-15: Typo fix
 - 2019-01-09: Expand section
+- 2019-12-21: Clarify section
