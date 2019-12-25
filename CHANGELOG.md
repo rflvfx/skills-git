@@ -207,3 +207,4 @@
 - 2019-05-18: Update notes
 - 2019-05-12: Add remark
 - 2019-01-03: Update notes
+- 2019-12-25: Update guide
