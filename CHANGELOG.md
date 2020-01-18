@@ -267,3 +267,4 @@
 - 2020-07-08: Typo fix
 - 2020-07-18: Small fix
 - 2020-02-06: Improve docs
+- 2020-01-18: Improve docs
