@@ -242,3 +242,4 @@
 - 2020-11-11: Update guide
 - 2020-06-28: Typo fix
 - 2020-01-11: Improve docs
+- 2020-01-27: Add note
