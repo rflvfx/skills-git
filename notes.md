@@ -73,3 +73,4 @@
 - 2019-05-01: Fix example
 - 2020-01-28: Small fix
 - 2020-12-04: Expand section
+- 2020-02-24: Clarify section
