@@ -255,3 +255,4 @@
 - 2020-05-02: Clarify section
 - 2020-05-22: Adjust content
 - 2020-11-25: Add remark
+- 2020-03-17: Update guide
