@@ -253,3 +253,4 @@
 - 2020-10-12: Small fix
 - 2020-12-23: Improve docs
 - 2020-05-02: Clarify section
+- 2020-05-22: Adjust content
