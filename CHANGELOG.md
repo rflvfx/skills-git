@@ -265,3 +265,4 @@
 - 2020-08-18: Add note
 - 2020-07-10: Add note
 - 2020-07-08: Typo fix
+- 2020-07-18: Small fix
