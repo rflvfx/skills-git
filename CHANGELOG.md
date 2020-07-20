@@ -232,3 +232,4 @@
 - 2019-12-05: Update guide
 - 2019-07-01: Polish docs
 - 2020-09-17: Small fix
+- 2020-07-20: Add note
