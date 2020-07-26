@@ -243,3 +243,4 @@
 - 2020-06-28: Typo fix
 - 2020-01-11: Improve docs
 - 2020-01-27: Add note
+- 2020-07-26: Add detail
