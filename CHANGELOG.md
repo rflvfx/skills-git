@@ -249,3 +249,4 @@
 - 2020-09-28: Minor update
 - 2020-02-28: Small fix
 - 2020-05-04: Clarify section
+- 2020-07-28: Update notes
