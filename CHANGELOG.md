@@ -262,3 +262,4 @@
 - 2020-05-14: Review content
 - 2020-09-04: Small fix
 - 2020-11-25: Expand section
+- 2020-08-18: Add note
