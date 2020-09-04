@@ -12,3 +12,4 @@
 - 2019-11-11: Add partial staging examples
 - 2019-12-15: Review commit signing section
 - 2020-04-20: Expand bisect runs docs
+- 2020-09-04: Review conflict resolution section
