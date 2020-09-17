@@ -231,3 +231,4 @@
 - 2019-04-11: Refine text
 - 2019-12-05: Update guide
 - 2019-07-01: Polish docs
+- 2020-09-17: Small fix
