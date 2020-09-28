@@ -246,3 +246,4 @@
 - 2020-07-26: Add detail
 - 2020-08-12: Add remark
 - 2020-05-04: Add detail
+- 2020-09-28: Minor update
