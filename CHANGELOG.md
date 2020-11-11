@@ -239,3 +239,4 @@
 - 2020-04-02: Fix example
 - 2020-10-15: Small fix
 - 2020-04-24: Minor update
+- 2020-11-11: Update guide
