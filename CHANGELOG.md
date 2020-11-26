@@ -272,3 +272,4 @@
 - 2020-04-13: Review content
 - 2020-07-10: Adjust content
 - 2020-12-24: Adjust content
+- 2020-11-26: Update notes
