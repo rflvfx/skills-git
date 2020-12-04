@@ -72,3 +72,4 @@
 - 2019-04-24: Typo fix
 - 2019-05-01: Fix example
 - 2020-01-28: Small fix
+- 2020-12-04: Expand section
