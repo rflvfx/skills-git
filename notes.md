@@ -80,3 +80,4 @@
 - 2020-01-18: Add detail
 - 2020-02-06: Expand section
 - 2020-07-14: Update guide
+- 2020-12-06: Clarify section
