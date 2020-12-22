@@ -256,3 +256,4 @@
 - 2020-05-22: Adjust content
 - 2020-11-25: Add remark
 - 2020-03-17: Update guide
+- 2020-12-22: Expand section
