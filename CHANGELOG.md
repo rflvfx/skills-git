@@ -278,3 +278,4 @@
 - 2020-08-27: Adjust content
 - 2020-03-23: Review content
 - 2020-04-16: Add detail
+- 2020-12-25: Minor update
