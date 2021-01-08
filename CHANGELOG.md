@@ -13,3 +13,4 @@
 - 2019-12-15: Review commit signing section
 - 2020-04-20: Expand bisect runs docs
 - 2020-09-04: Review conflict resolution section
+- 2021-01-08: Document sparse checkout
