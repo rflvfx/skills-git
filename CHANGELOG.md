@@ -299,3 +299,4 @@
 - 2021-08-27: Small fix
 - 2021-11-01: Improve docs
 - 2021-10-12: Typo fix
+- 2021-02-19: Clarify section
