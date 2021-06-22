@@ -93,3 +93,4 @@
 - 2021-12-25: Polish docs
 - 2021-01-28: Improve docs
 - 2021-11-27: Update notes
+- 2021-06-22: Add remark
