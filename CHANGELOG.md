@@ -310,3 +310,4 @@
 - 2021-03-27: Refine text
 - 2021-08-20: Add detail
 - 2021-08-24: Add note
+- 2021-06-27: Typo fix
