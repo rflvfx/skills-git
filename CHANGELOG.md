@@ -315,3 +315,4 @@
 - 2021-03-08: Review content
 - 2021-01-08: Minor update
 - 2021-04-04: Small fix
+- 2021-07-06: Add note
