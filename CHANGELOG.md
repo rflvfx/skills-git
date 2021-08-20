@@ -308,3 +308,4 @@
 - 2021-11-20: Review content
 - 2021-12-27: Minor update
 - 2021-03-27: Refine text
+- 2021-08-20: Add detail
