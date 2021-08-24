@@ -309,3 +309,4 @@
 - 2021-12-27: Minor update
 - 2021-03-27: Refine text
 - 2021-08-20: Add detail
+- 2021-08-24: Add note
