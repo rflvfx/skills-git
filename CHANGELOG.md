@@ -285,3 +285,4 @@
 - 2021-02-21: Polish docs
 - 2021-03-15: Update notes
 - 2021-02-08: Small fix
+- 2021-10-19: Improve docs
