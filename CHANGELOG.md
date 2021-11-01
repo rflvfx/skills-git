@@ -297,3 +297,4 @@
 - 2021-03-16: Typo fix
 - 2021-11-26: Fix example
 - 2021-08-27: Small fix
+- 2021-11-01: Improve docs
