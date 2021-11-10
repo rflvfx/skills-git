@@ -288,3 +288,4 @@
 - 2021-10-19: Improve docs
 - 2021-12-13: Small fix
 - 2021-08-02: Review content
+- 2021-11-10: Update guide
