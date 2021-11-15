@@ -292,3 +292,4 @@
 - 2021-03-20: Minor update
 - 2021-11-15: Add remark
 - 2021-06-09: Add remark
+- 2021-11-15: Polish docs
