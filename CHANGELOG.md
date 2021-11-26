@@ -295,3 +295,4 @@
 - 2021-11-15: Polish docs
 - 2021-08-05: Refine text
 - 2021-03-16: Typo fix
+- 2021-11-26: Fix example
