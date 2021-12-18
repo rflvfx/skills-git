@@ -302,3 +302,4 @@
 - 2021-02-19: Clarify section
 - 2021-11-04: Add detail
 - 2021-02-28: Refine text
+- 2021-12-18: Add remark
