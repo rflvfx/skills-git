@@ -318,3 +318,4 @@
 - 2021-07-06: Add note
 - 2021-07-26: Add note
 - 2021-11-01: Update guide
+- 2021-12-20: Polish docs
