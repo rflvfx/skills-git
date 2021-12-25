@@ -84,3 +84,4 @@
 - 2021-05-23: Add note
 - 2021-01-18: Add remark
 - 2021-06-22: Polish docs
+- 2021-12-25: Add detail
