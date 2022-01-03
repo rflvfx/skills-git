@@ -342,3 +342,4 @@
 - 2022-02-15: Improve docs
 - 2022-07-22: Review content
 - 2022-09-12: Add note
+- 2022-01-03: Typo fix
