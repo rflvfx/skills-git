@@ -344,3 +344,4 @@
 - 2022-09-12: Add note
 - 2022-01-03: Typo fix
 - 2022-07-25: Small fix
+- 2022-01-27: Fix example
