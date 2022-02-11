@@ -15,3 +15,4 @@
 - 2020-09-04: Review conflict resolution section
 - 2021-01-08: Document sparse checkout
 - 2021-04-06: Document lfs tracking
+- 2022-02-11: Improve merge strategies coverage
