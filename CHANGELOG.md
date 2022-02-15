@@ -339,3 +339,4 @@
 - 2022-01-05: Small fix
 - 2022-04-20: Typo fix
 - 2022-08-09: Update notes
+- 2022-02-15: Improve docs
