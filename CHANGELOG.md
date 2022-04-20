@@ -337,3 +337,4 @@
 - 2022-07-07: Adjust content
 - 2022-07-24: Fix example
 - 2022-01-05: Small fix
+- 2022-04-20: Typo fix
