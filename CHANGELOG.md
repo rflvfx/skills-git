@@ -320,3 +320,4 @@
 - 2021-11-01: Update guide
 - 2021-12-20: Polish docs
 - 2021-10-27: Improve docs
+- 2022-06-03: Add detail
