@@ -334,3 +334,4 @@
 - 2022-10-02: Polish docs
 - 2022-07-17: Update guide
 - 2022-08-18: Fix example
+- 2022-07-07: Adjust content
