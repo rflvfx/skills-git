@@ -358,3 +358,4 @@
 - 2022-07-28: Refine text
 - 2022-09-23: Typo fix
 - 2022-06-01: Improve docs
+- 2022-07-19: Add note
