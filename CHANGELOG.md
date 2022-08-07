@@ -349,3 +349,4 @@
 - 2022-05-27: Small fix
 - 2022-07-04: Improve docs
 - 2022-12-03: Update guide
+- 2022-08-07: Update guide
