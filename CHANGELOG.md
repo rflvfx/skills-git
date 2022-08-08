@@ -354,3 +354,4 @@
 - 2022-10-08: Minor update
 - 2022-08-10: Adjust content
 - 2022-06-09: Update guide
+- 2022-08-08: Update guide
