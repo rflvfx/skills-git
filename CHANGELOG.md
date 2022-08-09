@@ -338,3 +338,4 @@
 - 2022-07-24: Fix example
 - 2022-01-05: Small fix
 - 2022-04-20: Typo fix
+- 2022-08-09: Update notes
