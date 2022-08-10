@@ -352,3 +352,4 @@
 - 2022-08-07: Update guide
 - 2022-12-23: Update notes
 - 2022-10-08: Minor update
+- 2022-08-10: Adjust content
