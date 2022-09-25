@@ -17,3 +17,4 @@
 - 2021-04-06: Document lfs tracking
 - 2022-02-11: Improve merge strategies coverage
 - 2022-05-27: Expand cherry workflows docs
+- 2022-09-25: Add interactive rebase notes
