@@ -106,3 +106,4 @@
 - 2022-02-18: Clarify section
 - 2022-05-09: Minor update
 - 2022-02-22: Review content
+- 2022-10-24: Small fix
