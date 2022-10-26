@@ -322,3 +322,4 @@
 - 2021-10-27: Improve docs
 - 2022-06-03: Add detail
 - 2022-01-10: Improve docs
+- 2022-10-26: Update notes
