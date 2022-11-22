@@ -99,3 +99,4 @@
 - 2022-12-04: Review content
 - 2022-06-12: Adjust content
 - 2022-12-14: Adjust content
+- 2022-11-22: Clarify section
