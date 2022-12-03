@@ -348,3 +348,4 @@
 - 2022-03-15: Add remark
 - 2022-05-27: Small fix
 - 2022-07-04: Improve docs
+- 2022-12-03: Update guide
