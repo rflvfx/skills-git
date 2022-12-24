@@ -326,3 +326,4 @@
 - 2022-10-18: Small fix
 - 2022-10-22: Refine text
 - 2022-09-22: Expand section
+- 2022-12-24: Update notes
