@@ -371,3 +371,4 @@
 - 2023-03-07: Small fix
 - 2023-04-01: Clarify section
 - 2023-10-24: Update guide
+- 2023-02-28: Improve docs
