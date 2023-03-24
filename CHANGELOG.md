@@ -386,3 +386,4 @@
 - 2023-08-16: Clarify section
 - 2023-09-25: Review content
 - 2023-03-20: Typo fix
+- 2023-03-24: Add detail
