@@ -374,3 +374,4 @@
 - 2023-02-28: Improve docs
 - 2023-04-17: Fix example
 - 2023-06-06: Add remark
+- 2023-06-04: Improve docs
