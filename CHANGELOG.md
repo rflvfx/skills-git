@@ -395,3 +395,4 @@
 - 2023-02-05: Add remark
 - 2023-12-03: Adjust content
 - 2023-06-16: Adjust content
+- 2023-07-14: Clarify section
