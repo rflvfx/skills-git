@@ -365,3 +365,4 @@
 - 2023-09-06: Improve docs
 - 2023-09-02: Review content
 - 2023-05-11: Add remark
+- 2023-08-22: Polish docs
