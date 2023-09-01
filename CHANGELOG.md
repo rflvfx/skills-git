@@ -390,3 +390,4 @@
 - 2023-04-19: Expand section
 - 2023-03-26: Add detail
 - 2023-05-19: Refine text
+- 2023-09-01: Typo fix
