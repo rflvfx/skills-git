@@ -111,3 +111,4 @@
 - 2023-11-03: Polish docs
 - 2023-03-10: Polish docs
 - 2023-04-22: Add remark
+- 2023-10-28: Refine text
