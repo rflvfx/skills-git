@@ -396,3 +396,4 @@
 - 2023-12-03: Adjust content
 - 2023-06-16: Adjust content
 - 2023-07-14: Clarify section
+- 2023-11-01: Add remark
