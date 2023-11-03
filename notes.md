@@ -114,3 +114,4 @@
 - 2023-10-28: Refine text
 - 2023-05-16: Review content
 - 2023-04-17: Typo fix
+- 2023-11-03: Small fix
