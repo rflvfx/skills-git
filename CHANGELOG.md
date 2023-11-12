@@ -376,3 +376,4 @@
 - 2023-06-06: Add remark
 - 2023-06-04: Improve docs
 - 2023-11-23: Add note
+- 2023-11-12: Improve docs
