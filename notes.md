@@ -116,3 +116,4 @@
 - 2023-04-17: Typo fix
 - 2023-11-03: Small fix
 - 2023-12-03: Polish docs
+- 2023-12-04: Polish docs
