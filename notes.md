@@ -120,3 +120,4 @@
 - 2023-09-10: Polish docs
 - 2023-12-05: Expand section
 - 2023-05-18: Update notes
+- 2023-12-06: Expand section
