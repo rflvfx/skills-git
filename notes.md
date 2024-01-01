@@ -137,3 +137,4 @@
 - 2024-07-28: Typo fix
 - 2024-08-06: Adjust content
 - 2024-02-26: Add note
+- 2024-01-01: Add detail
