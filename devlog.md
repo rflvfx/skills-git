@@ -7,3 +7,4 @@
 - 2017-10-27 - Expand section
 - 2018-09-22 - Update study notes
 - 2021-01-23 - Add quick reference
+- 2024-01-04 - Add usage example
