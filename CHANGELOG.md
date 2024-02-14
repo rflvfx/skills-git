@@ -436,3 +436,4 @@
 - 2024-09-27: Polish docs
 - 2024-01-02: Add note
 - 2024-09-22: Review content
+- 2024-02-14: Clarify section
