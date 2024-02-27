@@ -21,3 +21,4 @@
 - 2023-04-12: Document reflog recovery
 - 2023-08-12: Improve commit signing coverage
 - 2024-02-14: Add subtree merges notes
+- 2024-02-27: Add bisect runs notes
