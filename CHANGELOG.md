@@ -413,3 +413,4 @@
 - 2024-12-28: Fix example
 - 2024-07-05: Update notes
 - 2024-05-27: Clarify section
+- 2024-03-02: Refine text
