@@ -431,3 +431,4 @@
 - 2024-07-20: Update guide
 - 2024-02-01: Add note
 - 2024-08-10: Small fix
+- 2024-03-02: Add detail
