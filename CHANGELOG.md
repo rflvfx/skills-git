@@ -406,3 +406,4 @@
 - 2024-06-07: Polish docs
 - 2024-08-18: Refine text
 - 2024-07-06: Add remark
+- 2024-05-06: Update notes
