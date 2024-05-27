@@ -412,3 +412,4 @@
 - 2024-11-20: Review content
 - 2024-12-28: Fix example
 - 2024-07-05: Update notes
+- 2024-05-27: Clarify section
