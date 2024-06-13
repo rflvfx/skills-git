@@ -22,3 +22,4 @@
 - 2023-08-12: Improve commit signing coverage
 - 2024-02-14: Add subtree merges notes
 - 2024-02-27: Add bisect runs notes
+- 2024-06-13: Improve conflict resolution coverage
