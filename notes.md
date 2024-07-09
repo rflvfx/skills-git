@@ -125,3 +125,4 @@
 - 2023-06-05: Update notes
 - 2023-04-27: Clarify section
 - 2024-09-17: Update notes
+- 2024-07-09: Minor update
