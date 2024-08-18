@@ -404,3 +404,4 @@
 - 2024-07-25: Minor update
 - 2024-11-16: Refine text
 - 2024-06-07: Polish docs
+- 2024-08-18: Refine text
