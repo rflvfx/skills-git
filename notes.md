@@ -124,3 +124,4 @@
 - 2023-06-28: Polish docs
 - 2023-06-05: Update notes
 - 2023-04-27: Clarify section
+- 2024-09-17: Update notes
