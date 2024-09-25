@@ -422,3 +422,4 @@
 - 2024-12-24: Improve docs
 - 2024-08-12: Small fix
 - 2024-01-19: Polish docs
+- 2024-09-25: Adjust content
