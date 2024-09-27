@@ -433,3 +433,4 @@
 - 2024-08-10: Small fix
 - 2024-03-02: Add detail
 - 2024-06-01: Minor update
+- 2024-09-27: Polish docs
