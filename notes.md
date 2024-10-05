@@ -131,3 +131,4 @@
 - 2024-10-17: Minor update
 - 2024-07-06: Typo fix
 - 2024-04-09: Add remark
+- 2024-10-05: Typo fix
