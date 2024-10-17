@@ -128,3 +128,4 @@
 - 2024-07-09: Minor update
 - 2024-04-16: Small fix
 - 2024-07-28: Add detail
+- 2024-10-17: Minor update
