@@ -440,3 +440,4 @@
 - 2024-11-14: Minor update
 - 2024-10-08: Update notes
 - 2024-03-13: Minor update
+- 2025-01-06: Update guide
