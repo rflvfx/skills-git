@@ -450,3 +450,4 @@
 - 2025-06-05: Update notes
 - 2025-06-08: Improve docs
 - 2025-01-22: Fix example
+- 2025-01-10: Typo fix
