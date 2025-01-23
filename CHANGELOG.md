@@ -446,3 +446,4 @@
 - 2025-10-23: Typo fix
 - 2025-09-22: Add detail
 - 2025-01-22: Refine text
+- 2025-01-23: Clarify section
