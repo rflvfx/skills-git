@@ -441,3 +441,4 @@
 - 2024-10-08: Update notes
 - 2024-03-13: Minor update
 - 2025-01-06: Update guide
+- 2025-02-10: Typo fix
