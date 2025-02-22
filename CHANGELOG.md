@@ -463,3 +463,4 @@
 - 2025-12-05: Improve docs
 - 2025-05-25: Adjust content
 - 2025-12-05: Add detail
+- 2025-02-22: Refine text
