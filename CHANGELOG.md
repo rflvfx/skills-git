@@ -23,3 +23,4 @@
 - 2024-02-14: Add subtree merges notes
 - 2024-02-27: Add bisect runs notes
 - 2024-06-13: Improve conflict resolution coverage
+- 2025-02-28: Update sparse checkout reference
