@@ -142,3 +142,4 @@
 - 2025-04-27: Add note
 - 2025-06-02: Add detail
 - 2025-12-13: Update guide
+- 2025-07-21: Expand section
