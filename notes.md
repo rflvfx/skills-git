@@ -152,3 +152,4 @@
 - 2025-06-17: Add detail
 - 2025-08-06: Polish docs
 - 2025-09-06: Update guide
+- 2025-07-27: Refine text
