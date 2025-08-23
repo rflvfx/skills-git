@@ -452,3 +452,4 @@
 - 2025-01-22: Fix example
 - 2025-01-10: Typo fix
 - 2025-09-18: Update notes
+- 2025-08-23: Add note
