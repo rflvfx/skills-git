@@ -456,3 +456,4 @@
 - 2025-06-22: Fix example
 - 2025-11-09: Update notes
 - 2025-04-13: Fix example
+- 2025-08-28: Improve docs
