@@ -151,3 +151,4 @@
 - 2025-03-12: Add note
 - 2025-06-17: Add detail
 - 2025-08-06: Polish docs
+- 2025-09-06: Update guide
