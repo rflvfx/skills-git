@@ -469,3 +469,4 @@
 - 2025-11-20: Polish docs
 - 2025-12-18: Expand section
 - 2025-06-09: Refine text
+- 2025-09-12: Review content
