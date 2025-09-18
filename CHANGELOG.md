@@ -451,3 +451,4 @@
 - 2025-06-08: Improve docs
 - 2025-01-22: Fix example
 - 2025-01-10: Typo fix
+- 2025-09-18: Update notes
