@@ -444,3 +444,4 @@
 - 2025-02-10: Typo fix
 - 2025-04-02: Add remark
 - 2025-10-23: Typo fix
+- 2025-09-22: Add detail
