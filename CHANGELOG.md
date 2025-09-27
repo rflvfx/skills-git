@@ -25,3 +25,4 @@
 - 2024-06-13: Improve conflict resolution coverage
 - 2025-02-28: Update sparse checkout reference
 - 2025-03-17: Add lfs tracking notes
+- 2025-09-27: Refine branch cleanup guide
