@@ -465,3 +465,4 @@
 - 2025-12-05: Add detail
 - 2025-02-22: Refine text
 - 2025-01-09: Refine text
+- 2025-11-07: Clarify section
