@@ -466,3 +466,4 @@
 - 2025-02-22: Refine text
 - 2025-01-09: Refine text
 - 2025-11-07: Clarify section
+- 2025-11-20: Polish docs
