@@ -458,3 +458,4 @@
 - 2025-04-13: Fix example
 - 2025-08-28: Improve docs
 - 2025-11-02: Expand section
+- 2025-12-06: Small fix
