@@ -489,3 +489,4 @@
 - 2026-05-18: Typo fix
 - 2026-11-08: Review content
 - 2026-05-01: Clarify section
+- 2026-01-07: Add remark
