@@ -506,3 +506,4 @@
 - 2026-06-07: Typo fix
 - 2026-11-07: Clarify section
 - 2026-01-01: Update guide
+- 2026-02-19: Review content
