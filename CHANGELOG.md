@@ -485,3 +485,4 @@
 - 2026-03-09: Improve docs
 - 2026-05-07: Review content
 - 2026-01-21: Polish docs
+- 2026-03-13: Clarify section
