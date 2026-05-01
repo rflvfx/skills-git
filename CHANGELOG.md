@@ -488,3 +488,4 @@
 - 2026-03-13: Clarify section
 - 2026-05-18: Typo fix
 - 2026-11-08: Review content
+- 2026-05-01: Clarify section
