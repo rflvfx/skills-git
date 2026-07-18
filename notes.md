@@ -161,3 +161,4 @@
 - 2026-03-14: Add remark
 - 2026-03-10: Add detail
 - 2026-04-08: Refine text
+- 2026-07-18: Review content
