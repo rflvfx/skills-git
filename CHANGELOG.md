@@ -490,3 +490,4 @@
 - 2026-11-08: Review content
 - 2026-05-01: Clarify section
 - 2026-01-07: Add remark
+- 2026-08-10: Add note
