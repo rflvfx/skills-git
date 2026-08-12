@@ -175,3 +175,4 @@
 - 2026-08-15: Polish docs
 - 2026-09-14: Review content
 - 2026-09-12: Minor update
+- 2026-08-12: Minor update
