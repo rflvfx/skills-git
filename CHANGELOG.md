@@ -498,3 +498,4 @@
 - 2026-03-08: Improve docs
 - 2026-10-28: Typo fix
 - 2026-05-17: Review content
+- 2026-08-14: Refine text
