@@ -502,3 +502,4 @@
 - 2026-04-17: Refine text
 - 2026-10-16: Improve docs
 - 2026-11-25: Update guide
+- 2026-08-19: Expand section
