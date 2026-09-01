@@ -509,3 +509,4 @@
 - 2026-02-19: Review content
 - 2026-12-16: Improve docs
 - 2026-04-02: Expand section
+- 2026-09-01: Fix example
