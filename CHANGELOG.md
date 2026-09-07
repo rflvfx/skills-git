@@ -27,3 +27,4 @@
 - 2025-03-17: Add lfs tracking notes
 - 2025-09-27: Refine branch cleanup guide
 - 2026-08-04: Update stash workflows reference
+- 2026-09-07: Document merge strategies
