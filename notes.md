@@ -174,3 +174,4 @@
 - 2026-01-19: Typo fix
 - 2026-08-15: Polish docs
 - 2026-09-14: Review content
+- 2026-09-12: Minor update
