@@ -1,20 +1,23 @@
 # skills-git
 
-Habilidade: **Git**
+Guia pratico de Git.
 
-## Anos de experiencia
+## Comandos essenciais
 
-_Atualize este campo com o tempo de experiencia real._
+```bash
+git init
+git add .
+git commit -m "mensagem"
+git branch -M main
+git remote add origin <url>
+git push -u origin main
+```
 
-## Sobre
+## Branches e merge
 
-Repositorio de referencia para a habilidade **Git**.
-Inclui um exemplo minimo e anotacoes para consulta rapida.
-
-## Exemplo
-
-Veja o arquivo `exemplo` na raiz do repositorio.
-
-## Links uteis
-
-- [Documentacao oficial](https://www.google.com/search?q=Git+documentacao)
+```bash
+git checkout -b feature
+# edicoes
+git checkout main
+git merge feature
+```
