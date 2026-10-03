@@ -28,3 +28,4 @@
 - 2025-09-27: Refine branch cleanup guide
 - 2026-08-04: Update stash workflows reference
 - 2026-09-07: Document merge strategies
+- 2026-10-03: Review cherry workflows section
