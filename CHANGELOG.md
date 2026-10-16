@@ -500,3 +500,4 @@
 - 2026-05-17: Review content
 - 2026-08-14: Refine text
 - 2026-04-17: Refine text
+- 2026-10-16: Improve docs
