@@ -1,23 +1,24 @@
+<div align="center">
+<img src="https://cdn.simpleicons.org/git" height="70"/>
+
 # skills-git
 
-Guia pratico de Git.
+**Git além do básico** — aliases, hooks, workflows e recuperação.
 
-## Comandos essenciais
+</div>
 
-```bash
-git init
-git add .
-git commit -m "mensagem"
-git branch -M main
-git remote add origin <url>
-git push -u origin main
-```
+## 📋 Sobre
 
-## Branches e merge
+Setup e notas de Git para produtividade: aliases de terminal, hooks que bloqueiam commits ruins e guia de workflows de branching.
 
-```bash
-git checkout -b feature
-# edicoes
-git checkout main
-git merge feature
-```
+## 📂 Conteúdo
+
+- `aliases.sh` — atalhos (`gs`, `gl`, `gundo`...)
+- `hooks/pre-commit` — bloqueia debug leftovers
+- `cheatsheet.md` — comandos avançados
+- `workflows.md` — trunk-based vs gitflow
+- `labs/` — exercícios práticos
+
+## 🧠 Tópicos cobertos
+
+`rebase` `reflog` `bisect` `worktree` `hooks` `cherry-pick` `submodules` `workflows`
