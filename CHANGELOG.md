@@ -479,3 +479,4 @@
 - 2025-04-23: Minor update
 - 2025-04-08: Polish docs
 - 2025-09-05: Small fix
+- 2026-10-23: Refine text
