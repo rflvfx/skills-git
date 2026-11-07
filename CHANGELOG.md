@@ -504,3 +504,4 @@
 - 2026-11-25: Update guide
 - 2026-08-19: Expand section
 - 2026-06-07: Typo fix
+- 2026-11-07: Clarify section
