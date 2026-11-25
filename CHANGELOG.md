@@ -501,3 +501,4 @@
 - 2026-08-14: Refine text
 - 2026-04-17: Refine text
 - 2026-10-16: Improve docs
+- 2026-11-25: Update guide
